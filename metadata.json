@@ -1,0 +1,6 @@
+{
+  "name": "Graphic Design Portfolio",
+  "description": "A minimalist, high-contrast dark portfolio showcasing premium graphic design work with fine typography, a filterable bento gallery, and a custom design workspace mock-up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
