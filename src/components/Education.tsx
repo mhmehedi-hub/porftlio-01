@@ -11,11 +11,11 @@ interface EducationItem {
 
 const EDUCATION_ITEMS: EducationItem[] = [
   {
-    institution: 'Nabiganj Government College',
+    institution: 'Shahid Abul Kashem College',
     degree: 'Higher Secondary Certificate (HSC)',
-    field: 'HUMANITIES',
+    field: 'BBA',
     status: 'COMPLETED',
-    period: '2024 - 2025'
+    period: '2019 - 2020'
   }
 ];
 
